@@ -1,6 +1,5 @@
 ---
 title: "flutter使用GitHub Action自动打包APK并上传Release"
-description: "最近写了一个查看河农大充电桩使用情况的APP,用的flutter,写了一个Github action记录并分享一下"
 published: 2025-02-17
 tags:
   - github-actions

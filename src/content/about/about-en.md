@@ -2,4 +2,14 @@
 lang: en
 ---
 
-Retypeset is a static blog theme based on the [Astro](https://astro.build/) framework. Inspired by [Typography](https://astro-theme-typography.vercel.app/), Retypeset establishes a new visual standard and reimagines the layout of all pages, creating a reading experience reminiscent of paper books, reviving the beauty of typography. Details in every sight, elegance in every space.
+People often ask about the name "Aprdec" — here's the story behind it.
+
+It stands for **April to December** — or in Chinese, **四月到十二月** (Sìyuè dào Shí'èryuè).
+
+There was someone special I used to know. She was born in December, and I was born in April. The name captures that distance between our birthdays, a quiet reminder of something that once mattered.
+
+If anyone asks, I simply tell them: *"I was born on April 12th."*
+
+
+
+

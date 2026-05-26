@@ -87,7 +87,10 @@ async function _getPosts(lang?: Language) {
     },
   )
 
-  const enhancedPosts = await Promise.all(filteredPosts.map(addMetaToPost))
+  const enhancedPosts = []
+  for (const post of filteredPosts) {
+    enhancedPosts.push(await addMetaToPost(post))
+  }
 
   return enhancedPosts.sort((a, b) =>
     b.data.published.valueOf() - a.data.published.valueOf(),
